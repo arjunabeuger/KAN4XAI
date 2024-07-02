@@ -16,7 +16,4 @@ To perform SR benchmarks, uncomment the equations in ```benchmark_full.py``` and
 ```batch
 python benchmark_full.py
 ```
-To perform the symbolic classification benchmark, run
-```batch
-python benchmark_accuracy_l0.py
-```
+
