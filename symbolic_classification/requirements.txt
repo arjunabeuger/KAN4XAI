@@ -1,0 +1,4 @@
+ucx-py-cu11==0.38.0
+cudf-cu11
+cuml-cu11
+
