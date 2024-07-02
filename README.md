@@ -11,7 +11,9 @@ This research evaluates KANs' potential in three machine learning tasks: symboli
 ## Repository Structure
 
 - `symbolic_regression/`: Contains code and data for symbolic regression tasks as well as integration task.
+  - To run benchmarks, run ```python benchmark_full.py``` 
 - `symbolic_classification/`: Contains code and data for symbolic classification task.
+  - To train symbolic classifier check out the notebook ```symbolic_classification.ipynb```
 - `requirements.txt`: List of dependencies for the project.
 
 ## Getting Started
